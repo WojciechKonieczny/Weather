@@ -98,9 +98,11 @@ body {
    cursor: pointer;
 }
 
-.bottom i {
-   font-size: 4em;
-   color: #dde9f7;
+.bottom {
+   i {
+      font-size: 4em;
+      color: #dde9f7;
+   }
 }
 
 .wind-value, .pressure-value, .clouds-value {
